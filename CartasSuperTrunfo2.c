@@ -47,8 +47,7 @@ int main() {
         pibcapita = (float)(PIB / populacao); // calcula o PIB per capita
 
         printf("PIB per capita: %.2f reais\n", pibcapita);
-
-
+        
     }
 
     return 0;
